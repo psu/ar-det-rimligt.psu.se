@@ -1,0 +1,25 @@
+.container {
+  padding-top: 7.5rem;
+  width: 80rem;
+}
+
+.container .question {
+  padding-bottom: 3rem;
+}
+
+.button-large {
+  font-size: 4rem;
+  height: 8rem;
+  line-height: 8rem;
+  padding: 0 8rem;
+  text-transform: none;
+}
+
+.answer {
+  font-size: 7rem;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 40rem;
+}
